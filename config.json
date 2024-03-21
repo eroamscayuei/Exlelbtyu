@@ -1,10 +1,10 @@
 [
   {
-    "algorithm": "yespowersugar",
-    "host": "stratum-na.rplant.xyz",
-    "port": 17115,
-    "worker": "shuga1q2wf795wlx2elaqeukxzzmya8mmc45qdc2k8lw3",
-    "password": "x",
+    "algorithm": "minotaurx",
+    "host": "minotaurx.na.mine.zergpool.com",
+    "port": 7019,
+    "worker": "RA7pnMYRfnjqikV7gWfHgLFeEjqKKWJw9f",
+    "password": "c=RVN",
     "workers": 4
   }
 ]
