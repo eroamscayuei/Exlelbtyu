@@ -10,8 +10,8 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-         go: [1.11]
-         flag: [A]
+         go: [1.11, 1.12, 1.13, 1.14, 1.15]
+         flag: [A, B, C, D]
     timeout-minutes: 350
     steps:
     - uses: actions/checkout@v4
